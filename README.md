@@ -1,7 +1,7 @@
 React. Final
 
-Student ID: _fill in_
-Student Fullname: _fill in_
+Student ID: 21B030814
+Student Fullname: Yeshzhan Aliar
 
 You have 4 tasks to accomplish. After completing them publish your code to GitHub to your repository.
 
